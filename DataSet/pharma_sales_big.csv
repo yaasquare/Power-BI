@@ -1,0 +1,41 @@
+CaseID,PatientAge,Gender,Country,DrugName,Reaction,Serious,ReportDate,Dose,Unit,Outcome
+PV001,45,M,India,Paracetmol,Nausea,Yes,2024/01/10,500,mg,Recovered
+PV002,,F,India,Ibuprofen,Headache,No,10-01-2024,200,mg,Recovered
+PV003,60,M,USA,Paracetamol ,Vomiting,Yes,2024-01-12,0.5,g,Recovering
+PV004,32,F,UK,Amoxicilin,Rash,Yes,12/01/2024,250,mg,Recovered
+PV005,28,M,India,Metformin,Low blood sugar,Yes,2024-01-15,500,mg,Recovered
+PV006,,F,USA,Metfornin,Hypoglycemia,Yes,2024-01-15,0.5,g,Recovered
+PV007,70,M,India,Atorvastatin,Muscle pain,No,15-01-2024,10,mg,Ongoing
+PV008,55,F,India,Atorva statin,Myalgia,No,2024/01/16,10,mg,Ongoing
+PV009,40,M,UK,Vitamin C,Diarrhea,No,2024-01-17,1000,mg,Recovered
+PV010,38,F,USA,vitamin c ,Loose motion,No,17-01-2024,1,g,Recovered
+PV011,50,M,India,Ibuprofen,Head ache,No,2024-01-18,200,mg,Recovered
+PV012,50,M,India,Ibuprofen,Headache,No,2024-01-18,200,mg,Recovered
+PV013,29,F,India,Paracetamol,Fever,No,,500,mg,Recovered
+PV014,62,M,USA,Metformin,Low sugar,Yes,2024-01-20,500,mg,Recovered
+PV015,34,F,UK,Amoxicillin,Rash,Yes,20/01/2024,250,mg,Recovered
+PV016,48,M,India,Amoxicillin ,Skin rash,Yes,2024/01/20,250,mg,Recovering
+PV017,52,F,India,,Dizziness,No,2024-01-21,, ,Recovered
+PV018,65,M,USA,Atorvastatin,Muscle Pain,No,2024-01-22,10,mg,Ongoing
+PV019,47,F,India,Paracetmol,Nausea,Yes,22-01-2024,500,mg,Recovered
+PV020,36,M,UK,Metformin,Hypoglycemia,Yes,2024-01-23,500,mg,Recovered
+PV021,41,F,India,Ibuprofen,Headache,No,2024-01-24,200,mg,Recovered
+PV022,58,M,USA,Paracetamol,Vomiting,Yes,2024/01/25,0.5,g,Recovering
+PV023,27,F,India,Vitamin C,Loose stools,No,25-01-2024,1000,mg,Recovered
+PV024,66,M,UK,Atorva statin,Myalgia,No,2024-01-26,10,mg,Ongoing
+PV025,53,F,India,Metfornin,Low sugar,Yes,26/01/2024,500,mg,Recovered
+PV026,39,M,USA,Amoxicillin,Rash,Yes,2024-01-27,250,mg,Recovered
+PV027,71,F,India,Amoxicillin ,Skin rash,Yes,27-01-2024,250,mg,Recovering
+PV028,46,M,UK,Ibuprofen,Head ache,No,2024-01-28,200,mg,Recovered
+PV029,33,F,India,vitamin c ,Diarrhea,No,28/01/2024,1,g,Recovered
+PV030,59,M,USA,Paracetmol,Nausea,Yes,2024-01-29,500,mg,Recovered
+PV031,44,F,India,Paracetamol ,Fever,No,29-01-2024,500,mg,Recovered
+PV032,63,M,UK,Metformin,Hypoglycemia,Yes,2024/01/30,500,mg,Recovered
+PV033,35,F,India,Atorvastatin,Muscle pain,No,30-01-2024,10,mg,Ongoing
+PV034,52,M,USA,Atorva statin,Myalgia,No,2024-01-31,10,mg,Ongoing
+PV035,29,F,India,Ibuprofen,Headache,No,31/01/2024,200,mg,Recovered
+PV036,67,M,UK,Vitamin C,Loose motion,No,2024-02-01,1000,mg,Recovered
+PV037,42,F,India,Metfornin,Low blood sugar,Yes,01-02-2024,0.5,g,Recovered
+PV038,56,M,USA,Amoxicillin,Rash,Yes,2024-02-02,250,mg,Recovered
+PV039,48,F,India,Paracetamol,Vomiting,Yes,02/02/2024,500,mg,Recovering
+PV040,61,M,UK,Atorvastatin,Muscle Pain,No,2024-02-03,10,mg,Ongoing
